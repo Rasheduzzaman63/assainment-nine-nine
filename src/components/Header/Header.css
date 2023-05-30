@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  background-color: rgb(80, 77, 68);
+  color: whitesmoke;
+  padding: 5px 50px;
+}
+.nav-item a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: whitesmoke;
+}
+.nav-item a:hover{
+    color:rgb(138, 146, 146)
+}

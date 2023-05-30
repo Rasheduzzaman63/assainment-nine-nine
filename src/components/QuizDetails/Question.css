@@ -1,0 +1,10 @@
+.question{
+    border: 1px solid greenyellow;
+    margin: 20px;
+    border-radius: 10px;
+   display: flex;
+   justify-content: space-evenly;
+}
+.question p{
+    font-size: 20px;
+}

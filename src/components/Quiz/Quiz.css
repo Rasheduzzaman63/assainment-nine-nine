@@ -1,0 +1,10 @@
+.quiz{
+    border: 1px solid grey;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.quiz img{
+    width: 200px;
+    height: 150pz;
+}

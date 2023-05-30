@@ -1,0 +1,12 @@
+.main-topics{
+    
+}
+.main-topics h1{
+    padding: 10px 0;
+    font-size: 50px;
+    font-weight: 600;
+}
+.topics{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
